@@ -8,3 +8,6 @@ This repository contains coursework and projects for CIS 3902.
 
 Reading Files in Colab mini toutorial:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb 
+
+Bias vs. Variance regression lab:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb
