@@ -11,3 +11,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Reading
 
 Bias vs. Variance regression lab:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb
+
+Regularization methods lab:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/regularization.ipynb 
