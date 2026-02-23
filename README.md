@@ -14,3 +14,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/bias_va
 
 Regularization methods lab:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/regularization.ipynb 
+
+Data Cleaning Tutorial lab:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Data_Cleaning_Exercise.ipynb
