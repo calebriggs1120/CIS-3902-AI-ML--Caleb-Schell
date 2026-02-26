@@ -17,3 +17,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/regular
 
 Data Cleaning Tutorial lab:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Data_Cleaning_Exercise.ipynb
+
+Data Cleaning Exercise with Heart Disease Dataset:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/copy_of_data_cleaning_exercise_class.ipynb 
