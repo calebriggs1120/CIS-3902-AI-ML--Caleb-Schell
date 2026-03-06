@@ -20,3 +20,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Data_Cl
 
 Data Cleaning Exercise with Heart Disease Dataset:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/copy_of_data_cleaning_exercise_class.ipynb 
+
+Decision Tree Classification with Mushroom Dataset: Using decision trees to predict mushrooms as either edible or poisonous
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Mushroom_Reduced_Student.ipynb
