@@ -23,3 +23,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/copy_of
 
 Decision Tree Classification with Mushroom Dataset: Using decision trees to predict mushrooms as either edible or poisonous
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Mushroom_Reduced_Student.ipynb
+
+Random Forest Model Predicting Arrests made in Chicago:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/random_forest_crime_assignment_Caleb_Schell.ipynb
