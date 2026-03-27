@@ -26,3 +26,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Mushroo
 
 Random Forest Model Predicting Arrests made in Chicago:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/random_forest_crime_assignment_Caleb_Schell.ipynb
+
+Using AutoViz to Create Visualizations:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Autoviz_(3).ipynb
