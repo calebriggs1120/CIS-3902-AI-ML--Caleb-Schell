@@ -32,3 +32,6 @@ https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/random_
 
 Using AutoViz to Create Visualizations:
 https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Autoviz_(3).ipynb
+
+Notebook that examines marketing insights using k-means clustering for unsupervised machine learning. Data points are classified into distinct groups so that each group can be marketed to more effectively:
+https://github.com/calebriggs1120/CIS-3902-AI-ML--Caleb-Schell/blob/main/Customer_Segmentation_Using_Clustering.ipynb 
